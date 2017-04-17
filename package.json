@@ -1,0 +1,23 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "description": "javascript sort",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sihai00/sort.git"
+  },
+  "keywords": [
+    "javascript",
+    "sort"
+  ],
+  "author": "sihai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sihai00/sort/issues"
+  },
+  "homepage": "https://github.com/sihai00/sort#readme"
+}

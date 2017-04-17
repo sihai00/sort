@@ -1,0 +1,13 @@
+var common = require('./common.js')
+var selectSort = require('./selectSort.js')
+var insertSort = require('./insertSort.js')
+var bubbleSort = require('./bubbleSort.js')
+var shellSort = require('./shellSort.js')
+var mergeSort = require('./mergeSort.js')
+var quickSort = require('./quickSort.js')
+var heapify = require('./heapify.js')
+
+var arr = common.randomNumber(10, 10, 30)
+arr = heapify.heapify(arr)
+// console.log(arr)
+console.log(common.testFunTime(heapify.heapifySort, arr))
