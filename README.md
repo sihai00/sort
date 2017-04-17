@@ -1,5 +1,5 @@
 # sort
-javascript sort关于javascript排序的一些排序算法
+关于javascript的一些排序算法
 
 - [x] 选择排序
 - [x] 插入排序
